@@ -7,7 +7,7 @@ _core:
 id: anonymous
 label: 'Anonymous user'
 weight: 0
-is_admin: true
+is_admin: false
 permissions:
   - 'access comments'
   - 'access content'
